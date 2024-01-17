@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas Riestra</h1>
-<h3 align="center">full-stack developer from Venezuela, based in Spain.</h3>
+<h3 align="center">full-stack developer from Caracas, Venezuela. Living in Spain.</h3>
 
 - About Me!
-  const LucasRiestra = {
-   code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C#"],
-   tools: ["React", "Node", "NextJS", "Express", "Prisma", "MongoDB", "GraphQL", "Docker", "Webpack"],
-   }
 
+"My career in web development is in constant evolution. Specializing in both Front-end and Back-end, I focus on creating appealing interfaces and developing efficient logic and functionalities for websites. I recently completed my training as a Full Stack Developer at the Assembler Institute Of Technology, providing me with a broad perspective on web development."
+  
 - 📫How to reach me **Lucas.riestra94@gmail.com**
 
 - 💬 Ask me about **Html, Css, Javascript, React, Typescript and anything about Development.**
