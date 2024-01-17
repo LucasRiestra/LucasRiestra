@@ -3,7 +3,7 @@
 
 - About Me!
   const LucasRiestra = {
-   code:["Typescript", "Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C#"],
+   code: ["Typescript", "Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C#"],
    tools: ["React", "Node", "NextJS", "Express", "Prisma", "MongoDB", "GraphQL", "Docker", "Webpack"],
    }
 
